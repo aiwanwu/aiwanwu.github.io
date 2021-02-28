@@ -1,0 +1,9 @@
+- name: 首页
+  icon: home
+  url: /
+  active_key: home
+
+- name: 关于
+  icon: about
+  url: /about/
+  active_key: about

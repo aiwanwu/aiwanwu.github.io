@@ -1,0 +1,588 @@
+- categories:
+  - name: 搜索引擎
+    links:
+    - name: Yandex
+      style: orange
+      url: https://yandex.com/
+
+    - name: million short
+      style: orange
+      url: https://millionshort.com/
+
+    - name: weboas
+      style: red
+      url: https://weboas.is/
+
+    - name: soovle
+      style: basic
+      url: https://soovle.com/
+
+    - name: swisscows
+      style: basic
+      url: https://swisscows.com/
+
+    - name: Paste Search
+      style: basic
+      url: https://netbootcamp.org/pastesearch.html
+
+  - name: 开源情报
+    links:
+    - name: Framework
+      style: orange
+      url: https://osintframework.com/
+
+    - name: technisette
+      style: red
+      url: https://www.technisette.com/p/search-engines
+
+    - name: ZME8nR
+      style: basic
+      url: https://start.me/p/ZME8nR/osint
+
+    - name: pers-infra
+      style: basic
+      url: https://start.me/p/nRl9Ya/pers-infra
+
+    - name: SEC487
+      style: basic
+      url: https://gist.github.com/routeback/a813bb40fdb7631cde8767c3a0369e29
+
+  - name: Github Search
+    links:
+    - name: coderstats
+      style: orange
+      url: https://coderstats.net/
+
+    - name: awesomelists
+      style: red
+      url: https://awesomelists.top/
+
+    - name: gharchive
+      style: basic
+      url: https://gharchive.org/
+
+    - name: git-awards
+      style: basic
+      url: https://git-awards.com/
+
+    - name: githubstars
+      style: basic
+      url: https://githubstars.com/
+
+    - name: gitlive.net
+      style: basic
+      url: https://gitlive.net/
+
+    - name: githut
+      style: basic
+      url: https://githut.info/
+
+    - name: gitstar-ranking
+      style: basic
+      url: https://gitstar-ranking.com/
+
+    - name: caius
+      style: basic
+      url: https://caius.github.io/github_id/
+
+    - name: api.github
+      style: basic
+      url: https://api.github.com/
+
+  - name: Dark Web
+    links:
+    - name: dark.fail
+      style: orange
+      url: https://dark.fail/
+
+    - name: real-world
+      style: red
+      url: https://github.com/alecmuffett/real-world-onion-sites/
+
+    - name: bullmask
+      style: basic
+      url: https://bullmask.com/
+
+    - name: darksearch
+      style: basic
+      url: https://darksearch.io/
+
+    - name: ahmia
+      style: red
+      url: http://ahmia.fi
+
+    - name: onionsearch
+      style: red
+      url: http://onionsearchengine.com
+
+    - name: grams
+      style: red
+      url: http://grams.link
+
+    - name: onionland
+      style: red
+      url: http://onionlandsearchengine.com
+
+    - name: tor2web
+      style: red
+      url: http://tor2web.onionsearchengine.com
+
+    - name: onion1
+      style: red
+      url: https://tordex7iie7z2wcg.onion
+
+    - name: onion2
+      style: red
+      url: https://haystakvxad7wbk5.onion
+
+    - name: onion3
+      style: red
+      url: https://xmh57jrzrnw6insl.onion
+
+    - name: onion4
+      style: red
+      url: https://gjobqjj7wyczbqie.onion
+
+    - name: onion5
+      style: red
+      url: http://hss3uro2hsxfogfq.onion.sh
+
+    - name: POOPAK
+      style: red
+      url: https://github.com/teal33t/poopak/
+
+  - name: Telegram
+    links:
+    - name: lyzem
+      style: orange
+      url: https://lyzem.com/
+
+    - name: Telegago
+      style: red
+      url: https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg
+
+    - name: BUZZ.IM
+      style: red
+      url: https://search.buzz.im/
+
+    - name: TelePosts
+      style: red
+      url: https://tgstat.ru/en/search
+
+    - name: telescan
+      style: red
+      url: https://github.com/pielco11/telescan
+
+    - name: TeleGram
+      style: red
+      url: https://github.com/th3unkn0n/TeleGram-Scraper
+
+- categories:
+  - name: 文件搜索
+    links:
+    - name: anyfiles
+      style: basic
+      url: https://anyfiles.org
+
+    - name: fsearchengine
+      style: basic
+      url: https://fsearchengine.blogspot.com
+
+    - name: filesearch
+      style: basic
+      url: https://filesearch.link
+
+    - name: shareonlinesearch
+      style: basic
+      url: https://shareonlinesearch.com
+
+    - name: wupfile
+      style: basic
+      url: https://wupfile.filesearch.link
+
+    - name: sharing
+      style: basic
+      url: https://sharing-files.com
+
+    - name: rockfile
+      style: basic
+      url: https://rockfilesearch.com
+
+    - name: filejoker
+      style: basic
+      url: https://filejokersearch.com
+
+    - name: googledrive
+      style: basic
+      url: https://googledrivesearch.com
+
+    - name: 4shared
+      style: basic
+      url: https://4shared.com
+
+  - name: 视频搜索
+    links:
+    - name: peteyvid
+      style: basic
+      url: http://peteyvid.com
+
+    - name: youtube
+      style: basic
+      url: http://youtube.com
+
+    - name: videohp
+      style: basic
+      url: http://google.com/videohp
+
+    - name: metacafe
+      style: basic
+      url: http://metacafe.com
+
+    - name: veoh
+      style: basic
+      url: http://veoh.com
+
+    - name: 360daily
+      style: basic
+      url: http://360daily.com
+
+    - name: tubesearch
+      style: basic
+      url: http://tubesearch.info
+
+    - name: metatube
+      style: basic
+      url: http://metatube.com
+
+  - name: 种子搜索
+    links:
+    - name: yify
+      style: basic
+      url: http://yify-torrent.org
+
+    - name: glodls
+      style: basic
+      url: http://glodls.to
+
+    - name: idope
+      style: basic
+      url: http://idope.se
+
+    - name: kat
+      style: basic
+      url: http://kat.rip
+
+    - name: bitlordsearch
+      style: basic
+      url: http://bitlordsearch.com
+
+    - name: torlock
+      style: basic
+      url: http://torlock.com
+
+    - name: torrentdownloads
+      style: basic
+      url: http://torrentdownloads.me
+
+    - name: torrents
+      style: basic
+      url: http://search.torrents.io
+
+    - name: 1337x
+      style: basic
+      url: http://1337x.to
+
+    - name: torrentproject
+      style: basic
+      url: http://torrentproject.cc
+
+    - name: xtorx
+      style: basic
+      url: http://xtorx.com
+
+    - name: torrentrex
+      style: basic
+      url: http://torrentrex.com
+
+    - name: veoble
+      style: basic
+      url: http://veoble.com
+
+    - name: torrentz2eu
+      style: basic
+      url: http://torrentz2eu.in
+
+    - name: torrentz2eu
+      style: basic
+      url: http://torrentz2eu.buzz
+
+    - name: torrentz2eu
+      style: basic
+      url: http://torrentz2eu.org
+
+    - name: torrents
+      style: basic
+      url: http://torrents.io
+
+    - name: torrentseeker
+      style: basic
+      url: http://torrentseeker.com
+
+    - name: torrentscan
+      style: basic
+      url: http://torrentscan.com
+
+    - name: toorgle
+      style: basic
+      url: http://toorgle.com
+
+  - name: 数据搜索
+    links:
+    - name: datasetsearch
+      style: basic
+      url: http://toolbox.google.com/datasetsearch
+
+    - name: kaggle
+      style: basic
+      url: http://kaggle.com/datasets
+
+    - name: fivethirtyeight
+      style: basic
+      url: http://data.fivethirtyeight.com
+
+    - name: elsevier
+      style: basic
+      url: http://datasearch.elsevier.com/
+
+    - name: data-access
+      style: basic
+      url: http://ncdc.noaa.gov/data-access
+
+    - name: grouplens
+      style: basic
+      url: http://grouplens.org/datasets/
+
+    - name: icpsr
+      style: basic
+      url: http://icpsr.umich.edu
+
+    - name: healthdata
+      style: basic
+      url: http://healthdata.gov
+
+    - name: datastudio
+      style: basic
+      url: https://datastudio.google.com
+
+  - name: 论文搜索
+    links:
+    - name: ethos
+      style: basic
+      url: http://ethos.bl.uk
+
+    - name: ac.uk
+      style: basic
+      url: http://core.ac.uk
+
+    - name: scinapse
+      style: basic
+      url: http://scinapse.io
+
+    - name: engpaper
+      style: basic
+      url: http://engpaper.com
+
+    - name: useful
+      style: basic
+      url: http://usefulresearchpapers.com
+
+    - name: ndltd
+      style: basic
+      url: http://search.ndltd.org
+
+    - name: oatd
+      style: basic
+      url: http://oatd.org
+
+    - name: philpapers
+      style: basic
+      url: http://philpapers.org
+
+    - name: plos
+      style: basic
+      url: http://plos.org
+
+    - name: manyessays
+      style: basic
+      url: http://manyessays.com/essay/search-engine
+
+- categories:
+  - name: 法律搜索
+    links:
+    - name: lawfirm
+      style: basic
+      url: http://lawfirmsearchengine.com
+
+    - name: weblaw
+      style: basic
+      url: http://search.weblaw.ch/le/
+
+    - name: ctlawsearch
+      style: basic
+      url: http://ctlawsearch.com
+
+    - name: onecle
+      style: basic
+      url: http://onecle.com
+
+    - name: legalcrystal
+      style: basic
+      url: http://legalcrystal.com
+
+    - name: regulation
+      style: basic
+      url: http://global-regulation.com
+
+    - name: legitquest
+      style: basic
+      url: http://legitquest.com
+
+    - name: lawkhoj
+      style: basic
+      url: http://lawkhoj.com
+
+    - name: justia
+      style: basic
+      url: http://justia.com
+
+  - name: 漏洞搜索
+    links:
+    - name: vuldb
+      style: basic
+      url: http://vuldb.com
+
+    - name: circl
+      style: basic
+      url: http://cve.circl.lu
+
+    - name: mitre
+      style: basic
+      url: http://cve.mitre.org
+
+    - name: vuls
+      style: basic
+      url: http://kb.cert.org/vuls/
+
+    - name: kitploit
+      style: basic
+      url: http://exploit.kitploit.com
+
+    - name: vulnerabilitycenter
+      style: basic
+      url: http://vulnerabilitycenter.com
+
+    - name: snyk
+      style: basic
+      url: http://snyk.io/vuln/
+
+    - name: wpvulndb
+      style: basic
+      url: http://wpvulndb.com
+
+    - name: cxsecurity
+      style: basic
+      url: http://cxsecurity.com
+
+    - name: securityfocus
+      style: basic
+      url: http://securityfocus.com
+
+  - name: 可视化搜索
+    links:
+    - name: glorp
+      style: basic
+      url: http://glorp.co
+
+    - name: terrapattern
+      style: basic
+      url: http://terrapattern.com
+
+    - name: music
+      style: basic
+      url: http://music-map.com
+
+    - name: mastersofmedia
+      style: basic
+      url: http://mastersofmedia.hum.uva.nl
+
+    - name: 36U7XNG
+      style: basic
+      url: http://bit.ly/36U7XNG
+
+    - name: observablehq
+      style: basic
+      url: http://observablehq.com
+
+    - name: kiddle
+      style: basic
+      url: http://kiddle.co
+
+    - name: music-viz
+      style: basic
+      url: http://observablehq.com/@alandelip/music-viz
+
+  - name: 声音搜索
+    links:
+    - name: soundtrackloops
+      style: basic
+      url: http://soundtrackloops.com
+
+    - name: soungle
+      style: basic
+      url: http://soungle.com
+
+    - name: soundjax
+      style: basic
+      url: http://soundjax.com
+
+    - name: findsounds
+      style: basic
+      url: http://findsounds.com
+
+    - name: 4noise
+      style: basic
+      url: http://4noise.com
+
+    - name: audiocommons
+      style: basic
+      url: http://audiocommons.org
+
+    - name: flaru
+      style: basic
+      url: http://flaru.com
+
+    - name: soundeffectssearch
+      style: basic
+      url: http://soundeffectssearch.com
+
+    - name: dailywav
+      style: basic
+      url: http://dailywav.com
+
+    - name: zapsplat
+      style: basic
+      url: http://zapsplat.com
+
+  - name: 人像搜索
+    links:
+    - name: smffmc
+      style: basic
+      url: https://smffmc.com/
+
+    - name: pimeyes
+      style: basic
+      url: https://pimeyes.com/en/
+
+    - name: social_mapper
+      style: basic
+      url: https://github.com/Greenwolf/social_mapper

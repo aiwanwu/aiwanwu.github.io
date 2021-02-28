@@ -1,0 +1,39 @@
+repository: aiwanwu/wanwuso
+repository_url: https://github.com/aiwanwu/wanwuso
+
+timezone: Asia/Shanghai
+lang: zh_CN
+
+title: 万物可搜 · WanWuSo
+alias_en: 万物可搜
+alias_cn: 万物搜索
+description: A Navigation Website for CyberSpace
+keywords: 万物搜索, 导航, WanwuSo, Cyber, Search, Navi, Navigation
+url: https://wanwuso.github.io
+established_at: "2019-10-01T00:00+08:00"
+
+author: aiwanwu
+author_url: https://aiwanwu.com
+organization: AILAB
+organization_url: https://ailab.net
+contact: contact[at]test[dot]com
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
