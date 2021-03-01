@@ -25,6 +25,10 @@
       style: basic
       url: https://netbootcamp.org/pastesearch.html
 
+    - name: searchitall
+      style: basic
+      url: https://searchitall.com
+
   - name: 开源情报
     links:
     - name: Framework
@@ -47,7 +51,7 @@
       style: basic
       url: https://gist.github.com/routeback/a813bb40fdb7631cde8767c3a0369e29
 
-  - name: Github Search
+  - name: 代码搜索
     links:
     - name: coderstats
       style: orange
@@ -88,6 +92,46 @@
     - name: api.github
       style: basic
       url: https://api.github.com/
+
+    - name: cocoapods
+      style: basic
+      url: http://cocoapods.org
+
+    - name: jexamples
+      style: basic
+      url: http://jexamples.com
+
+    - name: snip2code
+      style: basic
+      url: http://snip2code.com
+
+    - name: scala
+      style: basic
+      url: http://programcreek.com/scala/
+
+    - name: symbolhound
+      style: basic
+      url: http://symbolhound.com
+
+    - name: referencesource
+      style: basic
+      url: http://referencesource.microsoft.com
+
+    - name: programiz
+      style: basic
+      url: http://programiz.com
+
+    - name: codase
+      style: basic
+      url: http://codase.com
+
+    - name: developers
+      style: basic
+      url: http://developers.google.com/code-search
+
+    - name: nerdydata
+      style: basic
+      url: http://nerdydata.com
 
   - name: Dark Web
     links:
@@ -176,6 +220,38 @@
     - name: TeleGram
       style: red
       url: https://github.com/th3unkn0n/TeleGram-Scraper
+
+    - name: botsfortelegram
+      style: red
+      url: http://botsfortelegram.com
+
+    - name: tgram
+      style: red
+      url: http://tgram.io
+
+    - name: tgstat
+      style: red
+      url: http://tgstat.com
+
+    - name: telegramchannels
+      style: red
+      url: http://telegramchannels.me
+
+    - name: telegroups
+      style: red
+      url: http://telegroups.info
+
+    - name: telete
+      style: red
+      url: http://telete.in
+
+    - name: telegram
+      style: red
+      url: videosearch.in/watch/telegram/
+
+    - name: telegroups
+      style: red
+      url: http://telegramic.org
 
 - categories:
   - name: 文件搜索
@@ -455,47 +531,43 @@
       style: basic
       url: http://justia.com
 
-  - name: 漏洞搜索
+  - name: 人脸识别
     links:
-    - name: vuldb
+    - name: pictriev
       style: basic
-      url: http://vuldb.com
+      url: http://pictriev.com
 
-    - name: circl
+    - name: pimeyes
       style: basic
-      url: http://cve.circl.lu
+      url: http://pimeyes.com
 
-    - name: mitre
+    - name: how-old
       style: basic
-      url: http://cve.mitre.org
+      url: http://how-old.net
 
-    - name: vuls
+    - name: bing
       style: basic
-      url: http://kb.cert.org/vuls/
+      url: http://bing.com/visualsearch/Microsoft/CelebsLikeMe?toWww=1&redig=4EC343E484964EC5A978768925020C48
 
-    - name: kitploit
+    - name: starbyface
       style: basic
-      url: http://exploit.kitploit.com
+      url: http://starbyface.com
 
-    - name: vulnerabilitycenter
+    - name: aura
       style: basic
-      url: http://vulnerabilitycenter.com
+      url: http://aura.popsugar.com
 
-    - name: snyk
+    - name: pornstarbyface
       style: basic
-      url: http://snyk.io/vuln/
+      url: http://pornstarbyface.com
 
-    - name: wpvulndb
+    - name: twinning
       style: basic
-      url: http://wpvulndb.com
+      url: http://twinning.popsugar.com
 
-    - name: cxsecurity
+    - name: facesaerch
       style: basic
-      url: http://cxsecurity.com
-
-    - name: securityfocus
-      style: basic
-      url: http://securityfocus.com
+      url: http://facesaerch.com
 
   - name: 可视化搜索
     links:
@@ -586,3 +658,422 @@
     - name: social_mapper
       style: basic
       url: https://github.com/Greenwolf/social_mapper
+
+- categories:
+  - name: 图像搜索
+    links:
+    - name: cleanpng
+      style: basic
+      url: http://cleanpng.com
+
+    - name: favpng
+      style: basic
+      url: http://favpng.com
+
+    - name: kingpng
+      style: basic
+      url: http://kingpng.com
+
+    - name: pluspng
+      style: basic
+      url: http://pluspng.com
+
+    - name: purepng
+      style: basic
+      url: http://purepng.com
+
+    - name: pngguru
+      style: basic
+      url: http://pngguru.com
+
+    - name: pngkey
+      style: basic
+      url: http://pngkey.com
+
+    - name: searchpng
+      style: basic
+      url: http://searchpng.com
+
+    - name: subpng
+      style: basic
+      url: http://subpng.com
+
+  - name: 私密搜索
+    links:
+    - name: discretesearch
+      style: basic
+      url: http://discretesearch.com
+
+    - name: searchencrypt
+      style: basic
+      url: http://searchencrypt.com
+
+    - name: givero
+      style: basic
+      url: http://givero.com
+
+    - name: searchduckduckgo
+      style: basic
+      url: http://searchduckduckgo.com
+
+    - name: hidemysearches
+      style: basic
+      url: http://hidemysearches.com
+
+    - name: whaleslide
+      style: basic
+      url: http://whaleslide.com
+
+    - name: qwant
+      style: basic
+      url: http://qwant.com
+
+    - name: gibiru
+      style: basic
+      url: http://gibiru.com
+
+    - name: disconnect
+      style: basic
+      url: http://search.disconnect.me
+
+
+  - name: PDF搜索
+    links:
+    - name: pdfsearchengine
+      style: basic
+      url: http://pdfsearchengine.info
+
+    - name: pdfsearchengine
+      style: basic
+      url: http://pdfsearchengine.net
+
+    - name: freefullpdf
+      style: basic
+      url: http://freefullpdf.com
+
+    - name: pdfdrive
+      style: basic
+      url: http://pdfdrive.com
+
+    - name: docjax
+      style: basic
+      url: http://docjax.com
+
+    - name: printfu
+      style: basic
+      url: http://printfu.org
+
+    - name: sopdf
+      style: basic
+      url: http://sopdf.com
+
+    - name: pdfyes
+      style: basic
+      url: http://pdfyes.com
+
+    - name: SearchPdf
+      style: basic
+      url: http://goliathsearch.com/SearchPdf
+
+  - name: RSS搜索
+    links:
+    - name: pdfsearchengine
+      style: basic
+      url: http://pdfsearchengine.info
+
+    - name: specificfeeds
+      style: basic
+      url: http://specificfeeds.com
+
+    - name: pine
+      style: basic
+      url: http://pine.blog/search
+
+    - name: wingee
+      style: basic
+      url: http://wingee.com
+
+    - name: realtyfeedsearch
+      style: basic
+      url: http://realtyfeedsearch.com
+
+    - name: rssfeeds
+      style: basic
+      url: http://rssreader.com/rssfeeds.htm
+
+    - name: hobieu
+      style: basic
+      url: http://hobieu.apphb.com/api/1/opml/root
+
+    - name: feeder
+      style: basic
+      url: http://feeder.co/discover
+
+    - name: allfeeds
+      style: basic
+      url: http://allfeeds.org
+
+    - name: browse
+      style: basic
+      url: http://showrss.info
+
+  - name: 文章搜索
+    links:
+    - name: findarticleonline
+      style: basic
+      url: http://findarticleonline.com
+
+    - name: findarticles
+      style: basic
+      url: http://findarticles.com
+
+    - name: ezinearticles
+      style: basic
+      url: http://ezinearticles.com
+
+    - name: medical-
+      style: basic
+      url: http://aviationmedicine.com/medical-article-search/
+
+    - name: combined
+      style: basic
+      url: http://library.okstate.edu/search-and-find/combined-book-and-article-search
+
+- categories:
+  - name: 加密货币
+    links:
+    - name: cryptocurrency
+      style: basic
+      url: https://www.aware-online.com/osint-tools/cryptocurrency-search-tool/
+
+    - name: Orbit
+      style: basic
+      url: https://github.com/s0md3v/Orbit
+
+    - name: bitcoin
+      style: basic
+      url: http://bitcoin-search-engine.com
+
+    - name: blockchair
+      style: basic
+      url: http://blockchair.com
+
+    - name: bchsvexplorer
+      style: basic
+      url: http://bchsvexplorer.com
+
+    - name: oyo
+      style: basic
+      url: http://oyo.cash
+
+    - name: btc
+      style: basic
+      url: http://btc.com
+
+    - name: bitcoinwhoswho
+      style: basic
+      url: http://bitcoinwhoswho.com
+
+    - name: seekoin
+      style: basic
+      url: http://seekoin.com
+
+    - name: trends
+      style: basic
+      url: http://trends.cash
+
+    - name: cryptowat
+      style: basic
+      url: http://cryptowat.ch
+
+    - name: walletexplorer
+      style: basic
+      url: http://walletexplorer.com
+
+  - name: 数据泄漏
+    links:
+    - name: cryptocurrency
+      style: basic
+      url: https://www.aware-online.com/osint-tools/cryptocurrency-search-tool/
+
+    - name: dehashed
+      style: basic
+      url: http://dehashed.com
+
+    - name: haveibeenpwned
+      style: basic
+      url: http://haveibeenpwned.com
+
+    - name: haveibeencompromised
+      style: basic
+      url: http://haveibeencompromised.com
+
+    - name: leakedsource
+      style: basic
+      url: http://leakedsource.ru
+
+    - name: breachalarm
+      style: basic
+      url: http://breachalarm.com
+
+    - name: leaked
+      style: basic
+      url: http://leaked.site
+
+    - name: checkashleymadison
+      style: basic
+      url: http://checkashleymadison.com
+
+    - name: ghostproject
+      style: basic
+      url: http://ghostproject.fr
+
+    - name: inoitsu
+      style: basic
+      url: http://hotsheet.com/inoitsu/
+
+    - name: offshoreleaks
+      style: basic
+      url: http://offshoreleaks.icij.org
+
+    - name: leakeddata
+      style: basic
+      url: http://leakeddata.cc
+
+    - name: qresear
+      style: basic
+      url: http://qresear.ch
+
+    - name: evileaks
+      style: basic
+      url: http://evileaks.su
+
+    - name: leakcheck
+      style: basic
+      url: http://leakcheck.io
+
+    - name: lookup
+      style: basic
+      url: http://leak-lookup.com
+
+  - name: 漏洞搜索
+    links:
+    - name: vuldb
+      style: basic
+      url: http://vuldb.com
+
+    - name: circl
+      style: basic
+      url: http://cve.circl.lu
+
+    - name: mitre
+      style: basic
+      url: http://cve.mitre.org
+
+    - name: vuls
+      style: basic
+      url: http://kb.cert.org/vuls/
+
+    - name: kitploit
+      style: basic
+      url: http://exploit.kitploit.com
+
+    - name: vulnerabilitycenter
+      style: basic
+      url: http://vulnerabilitycenter.com
+
+    - name: snyk
+      style: basic
+      url: http://snyk.io/vuln/
+
+    - name: wpvulndb
+      style: basic
+      url: http://wpvulndb.com
+
+    - name: cxsecurity
+      style: basic
+      url: http://cxsecurity.com
+
+    - name: securityfocus
+      style: basic
+      url: http://securityfocus.com
+
+  - name: 恶意软件
+    links:
+    - name: virustotal
+      style: basic
+      url: http://virustotal.com
+
+    - name: cape
+      style: basic
+      url: http://cape.contextis.com
+
+    - name: hybrid
+      style: basic
+      url: http://hybrid-analysis.com
+
+    - name: any.run
+      style: basic
+      url: http://app.any.run
+
+    - name: metadefender
+      style: basic
+      url: http://metadefender.opswat.com
+
+    - name: joesandbox
+      style: basic
+      url: http://joesandbox.com
+
+    - name: urlhaus
+      style: basic
+      url: http://urlhaus.abuse.ch
+
+    - name: urlscan
+      style: basic
+      url: http://urlscan.io
+
+    - name: 
+      style: basic
+      url: http://
+
+    - name: 
+      style: basic
+      url: http://
+
+  - name: 黑客搜索
+    links:
+    - name: censys
+      style: basic
+      url: http://censys.io
+
+    - name: shodan
+      style: basic
+      url: http://shodan.io
+
+    - name: viz
+      style: basic
+      url: http://viz.greynoise.io/table
+
+    - name: zoomeye
+      style: basic
+      url: http://zoomeye.org
+
+    - name: fofa
+      style: basic
+      url: http://fofa.so
+
+    - name: onyphe
+      style: basic
+      url: http://onyphe.io
+
+    - name: binaryedge
+      style: basic
+      url: http://app.binaryedge.io
+
+    - name: hunter
+      style: basic
+      url: http://hunter.io
+
+    - name: wigle
+      style: basic
+      url: http://wigle.net
